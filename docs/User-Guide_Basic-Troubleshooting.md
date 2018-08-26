@@ -47,7 +47,7 @@ Note that
 
 #### SD card brand
 
-- Based on curent prices and performance tests done by Armbian users Samsung Evo, Samsung Evo Plus and Sandisk Ultra cards are recommended
+- Based on current prices and performance tests done by Armbian users Samsung Evo, Samsung Evo Plus and Sandisk Ultra cards are recommended
 - Other good alternatives may be added to this page in the future
 
 #### SD card size and speed class
